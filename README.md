@@ -9,10 +9,11 @@
 
 My git repository for piscine-cpp project at **42 school** 
 
-Graded by students : **Module 00/8 100%**<br>
-					 **Module 01/8 100%**<br>
-					 **Module 02/8 80%**
-					 **Module 03/8 95%**
+Graded by students : 
+**Module 00/8 100%**<br>
+**Module 01/8 100%**<br>
+**Module 02/8 80%**<br>
+**Module 03/8 95%**
 
 **Educational purpose only, Do not copy any of theses files**
 
