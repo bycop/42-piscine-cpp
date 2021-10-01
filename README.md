@@ -9,9 +9,9 @@
 
 My git repository for piscine-cpp project at **42 school** 
 
-Graded by students : **Module 1/8 100%**<br>
-					 **Module 2/8 100%**<br>
-					 **Module 3/8 80%**
+Graded by students : **Module 00/8 100%**<br>
+					 **Module 01/8 100%**<br>
+					 **Module 02/8 80%**
 
 **Educational purpose only, Do not copy any of theses files**
 
