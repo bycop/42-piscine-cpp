@@ -9,11 +9,17 @@
 
 My git repository for piscine-cpp project at **42 school** 
 
-Graded by students : 
-**Module 00/8 100%**<br>
-**Module 01/8 100%**<br>
-**Module 02/8 80%**<br>
-**Module 03/8 95%**
+| Module | Grade |
+| ----- | ----- |
+| Module 00 | <img src="https://bit.ly/3CZYJ2X"> |
+| Module 01 | <img src="https://bit.ly/3F9qhEU"> |
+| Module 02 | <img src="https://bit.ly/3kZzpnn"> |
+| Module 03 | <img src="https://bit.ly/3kZzqHX"> |
+| Module 04 | ----- |
+| Module 05 | ----- |
+| Module 06 | ----- |
+| Module 07 | ----- |
+| Module 08 | ----- |
 
 **Educational purpose only, Do not copy any of theses files**
 
