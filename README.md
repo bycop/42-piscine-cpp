@@ -18,7 +18,7 @@ My git repository for piscine-cpp project at **42 school**
 | Module 04 | <img src="https://bit.ly/3iEbkBb"> |
 | Module 05 | <img src="https://bit.ly/3Aioc5W"> |
 | Module 06 | <img src="https://bit.ly/3FA10DU"> |
-| Module 07 | ----- |
+| Module 07 | <img src="https://bit.ly/2YB92fn"> |
 | Module 08 | ----- |
 
 **Educational purpose only, Do not copy any of theses files**
